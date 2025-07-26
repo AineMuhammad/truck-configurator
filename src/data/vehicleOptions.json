@@ -1,0 +1,37 @@
+{
+  "trucks": [
+    {
+      "id": "Truck",
+      "name": "Chevrolet Silverado 2019",
+      "model": "Truck",
+      "description": "Default RC Truck"
+    }
+  ],
+  "parts": [
+    {
+      "id": "52374",
+      "name": "83 Series Wheel",
+      "category": "Wheels"
+    },
+    {
+      "id": "51852",
+      "name": "35x12.50R20 M/T | Dual Sidewall",
+      "category": "Tires"
+    },
+    {
+      "id": "53448",
+      "name": "High Clearance Front Bumper LED Lights & Skid Plate",
+      "category": "Bumpers"
+    },
+    {
+      "id": "46485",
+      "name": "Exo Winch Mount Kit",
+      "category": "Winch"
+    },
+    {
+      "id": "53965",
+      "name": "SRX2 Adj Aluminum Step",
+      "category": "Side Steps"
+    }
+  ]
+}
